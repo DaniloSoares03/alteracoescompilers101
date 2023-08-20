@@ -1,0 +1,14 @@
+read $x
+read $x
+$y = 2
+$z = 2
+$z = 3
+$z = 10
+$var = 1010
+$var = 10 + (20 - 30)
+$var = (1) - 2
+$num = 2 / 10 * 2 + 0 + 2 * (2 + 5 / (3  + 3 * 4))
+read $var
+write $variavel
+$varsemescapo = 10000-250 + 10 + 2 
+$variavel = 32
